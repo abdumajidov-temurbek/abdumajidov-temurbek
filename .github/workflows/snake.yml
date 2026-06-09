@@ -23,9 +23,9 @@ jobs:
         with:
           github_user_name: abdumajidov-temurbek
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd0d0,#5f8787,#1c2e2e,#142020,#0a0f0f
+            dist/github-contribution-grid-snake.svg?color_snake=#c71585&color_dots=#ebedf0,#f7c5e0,#ec88c0,#c71585,#8a0e5e
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#c71585
+            dist/github-contribution-grid-snake.gif?color_snake=#c71585&color_dots=#ebedf0,#f7c5e0,#ec88c0,#c71585,#8a0e5e
 
       - name: Push snake output to output branch
         uses: crazy-max/ghaction-github-pages@v4
