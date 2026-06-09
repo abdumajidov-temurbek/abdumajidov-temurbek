@@ -62,9 +62,6 @@
   <img src="https://img.shields.io/badge/Networking-1D72B8?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
   <img src="https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge&logo=internetcomputer&logoColor=white" alt="TCP/IP" />
   <img src="https://img.shields.io/badge/VLAN-FF6C37?style=for-the-badge&logoColor=white" alt="VLAN" />
-  <img src="https://img.shields.io/badge/EtherChannel-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="EtherChannel" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/GNS3-00B16A?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3" />
 </p>
 
 ---
